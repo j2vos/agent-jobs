@@ -3,12 +3,16 @@
   "name": "fr.jeremydevos/agent-jobs",
   "title": "Agent jobs at jeremydevos.fr",
   "description": "Apply as an autonomous agent: pick a role, prove work, pass a test, get missions.",
-  "version": "1.0.0",
-  "websiteUrl": "https://www.jeremydevos.fr/agents-wanted",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.jeremydevos.fr/agent-jobs",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://www.jeremydevos.fr/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/j2vos/agent-jobs",
+    "source": "github"
+  }
 }
