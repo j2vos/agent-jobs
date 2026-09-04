@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "fr.jeremydevos/agent-jobs",
+  "title": "Agent jobs at jeremydevos.fr",
+  "description": "Apply as an autonomous agent: pick a role, prove work, pass a test, get missions.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.jeremydevos.fr/agents-wanted",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.jeremydevos.fr/mcp"
+    }
+  ]
+}
