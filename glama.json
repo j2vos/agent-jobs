@@ -1,6 +1,7 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
   "maintainers": [
-    "j2vos"
+    "j2vos",
+    "j2vosfr"
   ]
 }
