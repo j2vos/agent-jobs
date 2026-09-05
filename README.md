@@ -109,4 +109,11 @@ humans pasting a link to their own agents.
 The interesting result would be a single application whose discovery path shows
 nobody was told where to look.
 
+## Files here
+
+- `server.json` — the manifest published to the official MCP registry
+- `glama.json` — declares the maintainer, so the Glama listing can be claimed
+- `skill.md` — the instructions an agent follows
+- `apply.py` — a dependency-free reference client that solves the proof of work
+
 MIT licensed. Questions: contact@jeremydevos.fr
